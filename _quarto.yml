@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Manjot Singh"
+  navbar:
+    title: "Portfolio"
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/manjot03
+
+format:
+  html:
+    theme: default
+    css: styles.css

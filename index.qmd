@@ -1,0 +1,91 @@
+---
+title: "Manjot Singh | Sales Specialist Portfolio"
+format: html
+website:
+  title: "Manjot Singh"
+  description: "Portfolio showcasing experience in sales, office administration, and business strategy."
+  navbar:
+    title: "Portfolio"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Skills"
+        href: skills.qmd
+      - text: "Certifications"
+        href: certifications.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/manjot03
+output-dir: docs
+---
+
+# Welcome to My Portfolio
+
+![Manjot Singh](images/manjot profile.jpg){width=120px style="float: right; margin-left: 20px; border-radius: 50%; box-shadow: 2px 2px 10px rgba(0,0,0,0.3);"}
+
+I’m **Manjot Singh**, a sales professional with strong experience in automotive sales and office administration. I am passionate about building relationships, solving problems, and driving results.
+
+---
+
+## Experience Highlights
+
+![Sales](images/sales.jpg){width=100% style="border-radius: 12px; margin-bottom: 1rem;"}
+
+**Sales & Office Assistant – Surrey Wheels & Tyres** *(Jan 2024 – July 2024)*
+
+- Assisted customers in selecting the right tires and wheels
+- Managed inventory and optimized stock levels
+- Processed transactions, managed records, scheduled appointments
+- Supported team in achieving sales targets and improving retention
+
+**Achievements:**
+- Consistently exceeded monthly sales targets
+- Improved customer satisfaction through personalized service
+- Streamlined office processes for efficiency
+
+---
+
+## Skills
+
+![Skills](images/skills.jpg){width=100% style="border-radius: 12px; margin-bottom: 1rem;"}
+
+- Customer Relationship Management
+- Sales Strategy & Deal Closing
+- Office Administration
+- Inventory & Team Management
+- Communication & Problem Solving
+
+---
+
+## Education
+
+![Education](images/education.jpg){width=100% style="border-radius: 12px; margin-bottom: 1rem;"}
+
+- **MBA in Finance**, University Canada West *(2024 – 2025)*
+- **BBA Hons.**, Lovely Professional University *(2021 – 2023)*
+
+---
+
+## Certifications
+
+![Certifications](images/certifications.jpg){width=100% style="border-radius: 12px; margin-bottom: 1rem;"}
+
+- Digital Marketing *(Cert ID: 2ZR 792 AVX)*
+- First-Aid CPR
+- BC Class-5 Driver’s License
+
+---
+
+## Contact Me
+
+📞 **Phone:** 604-830-9504  
+📧 **Email:** manjot0330@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/manjot03](https://www.linkedin.com/in/manjot03)
+
+---
+
+
