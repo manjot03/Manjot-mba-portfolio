@@ -42,6 +42,34 @@
     "text": "📞 Phone: 604-830-9504\n📧 Email: manjot0330@gmail.com\n🔗 LinkedIn: linkedin.com/in/manjot03"
   },
   {
+    "objectID": "index.html#llm-prompt-used",
+    "href": "index.html#llm-prompt-used",
+    "title": "Manjot Singh | Sales Specialist Portfolio",
+    "section": "LLM Prompt Used",
+    "text": "LLM Prompt Used\n\n“Design a full Quarto portfolio for Manjot Singh, a sales professional with experience in automotive sales and office administration. Include resume content, skills, experience, education, and certifications. Style it with neumorphic design, a light grey gradient background, and engaging visuals.”"
+  },
+  {
+    "objectID": "index.html#llm-generated-contributions",
+    "href": "index.html#llm-generated-contributions",
+    "title": "Manjot Singh | Sales Specialist Portfolio",
+    "section": "LLM-Generated Contributions",
+    "text": "LLM-Generated Contributions\nThe language model assisted with: - Drafting the layout and structure of the Quarto site. - Generating HTML/CSS for neumorphic design and responsive layout. - Creating sample content and formatting for the index.qmd, _quarto.yml, styles.css, and image integration. - Rewriting resume sections for visual clarity and digital presentation."
+  },
+  {
+    "objectID": "index.html#manual-edits-by-the-user",
+    "href": "index.html#manual-edits-by-the-user",
+    "title": "Manjot Singh | Sales Specialist Portfolio",
+    "section": "Manual Edits by the User",
+    "text": "Manual Edits by the User\n\nPersonal edits were made to better reflect tone and specific achievements.\nSection-specific images were curated and placed to add personality.\nEmail, phone number, and LinkedIn were double-checked and customized.\nAdditional improvements included aligning the layout with professional portfolio standards and testing responsiveness."
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Manjot Singh | Sales Specialist Portfolio",
+    "section": "Summary",
+    "text": "Summary\nThe AI-assisted process accelerated drafting and formatting. The final result is a tailored portfolio that reflects Manjot Singh’s professional brand while adhering to clean, modern web design."
+  },
+  {
     "objectID": "appendix.html",
     "href": "appendix.html",
     "title": "Appendix – LLM-Assisted Drafting and Commentary",
