@@ -1,0 +1,38 @@
+---
+title: "Resume"
+format: html
+---
+
+# Resume
+[Download My Resume (PDF)](\assets\Manjot Singh sales Resume.pdf)
+## Profile
+
+Results-driven sales professional with experience in automotive sales and office administration. Skilled in customer service, sales strategy, and managing daily office operations. Proven ability to build client relationships and meet targets.
+
+## Experience
+
+**Sales & Office Assistant Specialist**  
+_Surrey Wheels & Tyres_ — Jan 2024 – July 2024
+
+- Helped customers select wheels and tires
+- Managed inventory and restocking
+- Processed transactions and maintained records
+- Provided administrative support
+- Collaborated with team to exceed sales targets
+
+## Achievements
+
+- Exceeded monthly sales targets
+- Improved customer retention
+- Streamlined office processes
+
+## Education
+
+- **MBA in Finance**, University Canada West (2024–2025)  
+- **BBA (Hons)**, Lovely Professional University (2021–2023)
+
+## Certifications
+
+- Digital Marketing (ID: 2ZR 792 AVX)  
+- First Aid & CPR  
+- BC Driving License (Class 5)

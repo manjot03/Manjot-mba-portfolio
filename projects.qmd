@@ -1,0 +1,21 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+## 1. Sales CRM Optimization
+
+Improved internal tracking of customer leads and follow-ups at Surrey Wheels & Tyres, resulting in:
+
+- 25% increase in customer return rate
+- Reduced lead-to-sale time by 30%
+
+## 2. Inventory Analysis Dashboard
+
+Created an Excel dashboard to:
+
+- Track tire/wheel inventory
+- Visualize reorder levels
+- Automate alerts for low stock

@@ -1,19 +1,23 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Manjot Singh"
   navbar:
-    title: "Portfolio"
     left:
       - text: "Home"
-        href: index.qmd
-    right:
-      - text: "LinkedIn"
-        href: https://www.linkedin.com/in/manjot03
+        file: index.qmd
+      - text: "Resume"
+        file: resume.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Skills & Certifications"
+        file: skills.qmd
+      - text: "Contact"
+        file: contact.qmd
 
 format:
   html:
     theme: default
     css: styles.css
+    toc: true

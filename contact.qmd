@@ -1,0 +1,12 @@
+---
+title: "Contact"
+format: html
+---
+
+# Contact
+
+Feel free to reach out!
+
+- 📞 604-830-9504  
+- 📧 [Manjot0330@gmail.com](mailto:Manjot0330@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/manjot03)  
