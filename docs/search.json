@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills & Certifications",
+    "section": "",
+    "text": "Skills\n\nCustomer Relationship Management\n\nSales Strategy & Deal Closing\n\nOffice Administration & Organization\n\nInventory Management\n\nTeam Collaboration\n\nCommunication & Interpersonal Skills\n\nProblem Solving & Multitasking\n\n\n\nCertifications\n\nDigital Marketing (ID: 2ZR 792 AVX)\n\nFirst Aid & CPR\n\nBC Driving License – Class 5"
+  },
+  {
+    "objectID": "rendered.html",
+    "href": "rendered.html",
+    "title": "Welcome to My Portfolio",
+    "section": "",
+    "text": "Welcome to My Portfolio\nHi, I’m Manjot Singh — a results-driven sales professional passionate about customer service and business growth.\nThis site showcases my skills, resume, certifications, and project experience as I pursue my MBA in Finance at University Canada West.\nExplore the sections in the navigation bar to learn more!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Manjot Singh | Sales Specialist Portfolio",
@@ -103,5 +117,68 @@
     "title": "Appendix – LLM-Assisted Drafting and Commentary",
     "section": "",
     "text": "The AI-assisted process accelerated drafting and formatting. The final result is a tailored portfolio that reflects Manjot Singh’s professional brand while adhering to clean, modern web design."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFeel free to reach out!\n\n📞 604-830-9504\n\n📧 Manjot0330@gmail.com\n\n🔗 LinkedIn"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Improved internal tracking of customer leads and follow-ups at Surrey Wheels & Tyres, resulting in:\n\n25% increase in customer return rate\nReduced lead-to-sale time by 30%\n\n\n\n\nCreated an Excel dashboard to:\n\nTrack tire/wheel inventory\nVisualize reorder levels\nAutomate alerts for low stock"
+  },
+  {
+    "objectID": "projects.html#sales-crm-optimization",
+    "href": "projects.html#sales-crm-optimization",
+    "title": "Projects",
+    "section": "",
+    "text": "Improved internal tracking of customer leads and follow-ups at Surrey Wheels & Tyres, resulting in:\n\n25% increase in customer return rate\nReduced lead-to-sale time by 30%"
+  },
+  {
+    "objectID": "projects.html#inventory-analysis-dashboard",
+    "href": "projects.html#inventory-analysis-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "Created an Excel dashboard to:\n\nTrack tire/wheel inventory\nVisualize reorder levels\nAutomate alerts for low stock"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download My Resume (PDF) ## Profile\nResults-driven sales professional with experience in automotive sales and office administration. Skilled in customer service, sales strategy, and managing daily office operations. Proven ability to build client relationships and meet targets.\n\n\nSales & Office Assistant Specialist\nSurrey Wheels & Tyres — Jan 2024 – July 2024\n\nHelped customers select wheels and tires\nManaged inventory and restocking\nProcessed transactions and maintained records\nProvided administrative support\nCollaborated with team to exceed sales targets\n\n\n\n\n\nExceeded monthly sales targets\nImproved customer retention\nStreamlined office processes\n\n\n\n\n\nMBA in Finance, University Canada West (2024–2025)\n\nBBA (Hons), Lovely Professional University (2021–2023)\n\n\n\n\n\nDigital Marketing (ID: 2ZR 792 AVX)\n\nFirst Aid & CPR\n\nBC Driving License (Class 5)"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "",
+    "text": "Sales & Office Assistant Specialist\nSurrey Wheels & Tyres — Jan 2024 – July 2024\n\nHelped customers select wheels and tires\nManaged inventory and restocking\nProcessed transactions and maintained records\nProvided administrative support\nCollaborated with team to exceed sales targets"
+  },
+  {
+    "objectID": "resume.html#achievements",
+    "href": "resume.html#achievements",
+    "title": "Resume",
+    "section": "",
+    "text": "Exceeded monthly sales targets\nImproved customer retention\nStreamlined office processes"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA in Finance, University Canada West (2024–2025)\n\nBBA (Hons), Lovely Professional University (2021–2023)"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "",
+    "text": "Digital Marketing (ID: 2ZR 792 AVX)\n\nFirst Aid & CPR\n\nBC Driving License (Class 5)"
   }
 ]
